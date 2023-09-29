@@ -9,11 +9,12 @@ This repository contains the implementation of a Neural Image Caption Generator.
 
 ## Generated Caption Example
 
-<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/08c7e609-749f-4561-b756-8df046592923">
- <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/6f8a23ea-5725-43da-8544-12abd0e13251">
+<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/43c6ab29-334a-4694-8b83-d7b006c862d3">
+ <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/d3ff40ba-3372-47ea-ac4c-54d5f9eebccf">
  <p align="center">
 Generated Caption : cut up flower with a computer and a cup
 </p>
+
 
 ## Introduction
 
@@ -78,18 +79,18 @@ The training process involves several steps:
 The model generates descriptive captions for various images. Here are some examples:
 </p>
 
-<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/605fbb4c-4f89-45e5-938f-21463359ad3d">
- <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/8d6c4764-13e5-4bf2-a462-e4d3904a2e28">
+<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/dc2ad68f-715f-47e5-907b-5b94249ed820">
+ <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/ebaeec0c-8538-41e8-a07f-ecb994bfa6fe">
  <p align="center">
 Generated Caption : Asian girl and their face stand under an umbrella
 </p>
-<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/f21fdd0e-b6ed-423f-89d3-c7f6fa4ba09f">
- <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/067fba45-f359-496b-a1f6-b605f8825578">
+<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/ca627dbf-ce2d-4db5-84f5-b2e90144b6ba">
+ <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/f8aaf5c1-58b0-40a9-bed2-307a7aa40f1b">
  <p align="center">
 Generated Caption : Close-up photo taken of some vegetables and pickles.
 </p>
-<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/b5988bf7-b252-4fda-bb09-b383d9d76a22">
- <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/8917d9ef-3206-485b-b659-64633fc54ba4">
+<img align="left" width="300" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/df37298c-1137-499c-b550-cee0ae0e57d5">
+ <img align="center" width="600" height="300" src="https://github.com/Va16h/Image_caption_gen/assets/72316059/b74b2815-2d7c-44e8-85b0-e8914f00f61e">
  <p align="center">
 Generated Caption : Desk with 2 laptop computers and a cell phone.
 </p>
